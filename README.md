@@ -3,7 +3,7 @@
 CyberShield is a React-based web application that provides real-time cybersecurity news, intelligent threat categorization, and interactive analytics to enhance user awareness of emerging security risks.
 
 🌐 Live Demo
-👉 Try it here: bejewelled-kitsune-47bba8.netlify.app
+👉 Try it here:bejewelled-kitsune-47bba8.netlify.app
 
 
 ## Features
